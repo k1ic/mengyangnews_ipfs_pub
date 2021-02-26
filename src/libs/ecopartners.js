@@ -1,0 +1,60 @@
+﻿//eco partners array
+module.exports = [
+  {
+    did: 'z1emeg4eeh55Epfdz1bV3jhC9VxQ35H5yPb',
+    name: '大米蜂',
+    phone: '',
+    email: '',
+    cratio: 0.2,
+    state: 'active',
+  },
+  {
+    did: 'z1Rd2ERjTuhBxbHw7f3GA1r1rJigaRf8i1V',
+    name: '老冒',
+    phone: '',
+    email: '',
+    cratio: 0.05,
+    state: 'active',
+  },
+  {
+    did: 'z1XR5GvKmsHdLcTiQNL7eCjb6BuatppQhAL',
+    name: '胡先之',
+    phone: '',
+    email: '',
+    cratio: 0.05,
+    state: 'active',
+  },
+  {
+    did: 'z1SxfXApoRW8riB31movky6u8RMPp9w1im2',
+    name: '梦阳',
+    phone: '',
+    email: 'gaoshenghan88@126.com',
+    cratio: 0.25,
+    state: 'active',
+  },
+  {
+    did: 'z1jP98pAu2XBCoyqvzFGhLWgDxUYgkeco6C',
+    name: '小老虎',
+    phone: '',
+    email: '920407076@qq.com',
+    cratio: 0.15,
+    state: 'active',
+  },
+  {
+    did: 'z1UPAmBCSHjjSUzEHtE5qLn15ssP6JwF56V',
+    name: '颜如玉',
+    phone: '',
+    email: '604312495@qq.com',
+    cratio: 0.15,
+    state: 'active',
+  },
+  {
+    did: 'z1aspcKBWvacomipnS68AQAD5esc6E9Weid',
+    name: '渔道',
+    phone: '',
+    email: '',
+    cratio: 0.15,
+    state: 'active',
+  },
+];
+
